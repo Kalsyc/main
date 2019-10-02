@@ -301,48 +301,48 @@ Priorities: High (must have) - `* * \*`, Medium (nice to have) - `* \*`, Low (un
 
 [width="59%",cols="23%,<23%,<25%,<30%",options="header",]
 |=======================================================================
-|Priority |As a ... |I want to ... |So that I ...
-|`* * *` |new user |see usage instructions |can refer to instructions when I forget how to use the application
+|No. |Priority |As a ... |I want to ... |So that I ...
+|1 |`* * *` |new user |see usage instructions |can refer to instructions when I forget how to use the application
 
-|`* * *` |user |input the names of items |
+|2 |`* * *` |user |input the names of items |
 
-|`* * *` |user |input the expiry dates of items |
+|3 |`* * *` |user |input the expiry dates of items |
 
-|`* * *` |user |save the list of items I am tracking |can come back to it after closing the application
+|4 |`* * *` |user |save the list of items I am tracking |can come back to it after closing the application
 
-|`* * *` |user |view the list of things I am tracking |know which items are expiring soon
+|5 |`* * *` |user |view the list of things I am tracking |know which items are expiring soon
 
-|`* * *` |user |add items to the tracking list |am able to track new items
+|6 |`* * *` |user |add items to the tracking list |am able to track new items
 
-|`* * *` |user |delete items from the tracking list |can remove items that I do not need to track anymore
+|7 |`* * *` |user |delete items from the tracking list |can remove items that I do not need to track anymore
 
-|`* * *` |user |exit from the application |do not have to be on the application all the time
+|8 |`* * *` |user |exit from the application |do not have to be on the application all the time
 
-|`* * *` |user |be reminded of items that are expiring soon |can use them before they expire or prepare to replenish them
+|9 |`* * *` |user |be reminded of items that are expiring soon |can use them before they expire or prepare to replenish them
 
-|`* * *` |user |view the list of expired things that are to be replenished |know what to replenish
+|10 |`* * *` |user |view the list of expired things that are to be replenished |know what to replenish
 
-|`* * *` |user |sort my items according to name or date |can find my items more easily
+|11 |`* * *` |user |sort my items according to name or date |can find my items more easily
 
-|`* * *` |user |search up my items by their tags or names |can find my items more easily
+|12 |`* * *` |user |search up my items by their tags or names |can find my items more easily
 
-|`* *` |user |set quantity of my items |can take note of items that are soon running out or need using before the expiry date
+|13 |`* *` |user |set quantity of my items |can take note of items that are soon running out or need using before the expiry date
 
-|`* *` |user |input description of items |can write small notes or annotate about the item
+|14 |`* *` |user |input description of items |can write small notes or annotate about the item
 
-|`* *` |user |search items and delete |can delete an item easily without having to remember their ID
+|15 |`* *` |user |search items and delete |can delete an item easily without having to remember its ID
 
-|`* *` |user |undo my previous command |can return to the previous state/list if I have accidentally executed a command I do not want
+|16 |`* *` |user |undo my previous command |can return to the previous state/list if I have accidentally executed a command I do not want
 
-|`* *` |user |tag items |categorise and organise them better
+|17 |`* *` |user |tag items |categorise and organise them better
 
-|`* *` |user |edit items |can update their details easily when I need to
+|18 |`* *` |user |edit items |can update their details easily when I need to
 
-|`*` |student leader staying on campus |import tracking list into phone via QR Code |can remind my other friends when their items are expiring
+|19 |`*` |student leader staying on campus |import tracking list into phone via QR Code |can remind my other friends when their items are expiring
 
-|`*` |chef |track items via recipes |can be reminded of what items are expiring soon and need replenishing
+|20 |`*` |chef |track items via recipes |can be reminded of what items are expiring soon and need replenishing
 
-|`*` |store owners |track items and their quantity |know what items have run out and need replenishing
+|21 |`*` |store owners |track items and their quantity |know what items have run out and need replenishing
 
 
 |=======================================================================
