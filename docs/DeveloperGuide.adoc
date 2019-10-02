@@ -289,8 +289,12 @@ Refer to the guide <<DevOps#, here>>.
 * Needs items to be organised into what has not expired and what to buy/replenish
 * Wants to be notified of items that are soon expiring or has expired
 * Tech-savvy and familiar with CLI
+* Requires an app to check what items are about to expire for a particular recipe [v2.0]
+* Wants to save recipes in a convenient format [v2.0]
 
-*Value proposition*: track items' expiry dates faster than a typical mouse/GUI driven app or checking the item physically
+*Value proposition*:
+
+* Track items' expiry dates faster than a typical mouse/GUI driven app or checking the item physically
 
 [appendix]
 == User Stories
