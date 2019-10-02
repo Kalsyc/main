@@ -299,7 +299,7 @@ Refer to the guide <<DevOps#, here>>.
 
 Priorities: High (must have) - `* * \*`, Medium (nice to have) - `* \*`, Low (unlikely to have) - `*`
 
-[width="59%",cols="23%,<23%,<25%,<30%",options="header",]
+[width="59%",cols="10%, 23%,<23%,<35%,<40%",options="header",]
 |=======================================================================
 |No. |Priority |As a ... |I want to ... |So that I ...
 |1 |`* * *` |new user |see usage instructions |can refer to instructions when I forget how to use the application
