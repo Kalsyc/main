@@ -279,13 +279,18 @@ Refer to the guide <<DevOps#, here>>.
 
 *Target user profile*:
 
-* has a need to manage a significant number of contacts
-* prefer desktop apps over other types
-* can type fast
-* prefers typing over mouse input
-* is reasonably comfortable using CLI apps
+* Has a preference for command-line interfaces (CLI)
+* Able to type fast
+* Has a need to track the expiry dates of numerous items
+* Prefers desktop applications over other forms
+* Prefers typing over mouse input
+* Wants to be able to search up an item’s expiry date quickly
+* Has a need for items to be tagged appropriately
+* Needs items to be organised into what has not expired and what to buy/replenish
+* Wants to be notified of items that are soon expiring or has expired
+* Tech-savvy and familiar with CLI
 
-*Value proposition*: manage contacts faster than a typical mouse/GUI driven app
+*Value proposition*: track items' expiry dates faster than a typical mouse/GUI driven app or checking the item physically
 
 [appendix]
 == User Stories
